@@ -1,4 +1,4 @@
-#Setup
+# Setup
 Install node.js
 
 This uses the Discord.js library
